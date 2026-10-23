@@ -1,5 +1,5 @@
 {
-  "id": "./",
+  "id": "bright-path-academy",
   "name": "Bright Path Academy – Student Records Portal",
   "short_name": "Bright Path",
   "description": "Manage and view student academic records for Bright Path Academy.",
@@ -32,6 +32,42 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
+    }
+  ],
+  "dir": "ltr",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "prefer_related_applications": false,
+  "screenshots": [
+    {
+      "src": "screenshots/home.png",
+      "sizes": "430x900",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Choose your portal"
+    },
+    {
+      "src": "screenshots/staff.png",
+      "sizes": "430x900",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Staff dashboard"
+    },
+    {
+      "src": "screenshots/student.png",
+      "sizes": "430x900",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Student results"
+    },
+    {
+      "src": "screenshots/wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Desktop view"
     }
   ]
 }
