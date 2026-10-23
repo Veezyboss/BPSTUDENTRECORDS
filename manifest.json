@@ -1,9 +1,9 @@
 {
   "id": "bright-path-academy",
-  "name": "Bright Path Academy \u2013 Student Records Portal",
+  "name": "Bright Path Academy – Student Records Portal",
   "short_name": "Bright Path",
   "description": "Manage and view student academic records for Bright Path Academy.",
-  "start_url": "./",
+  "start_url": "./https://veezyboss.github.io/BPSTUDENTRECORDS/",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
@@ -91,7 +91,8 @@
   "dir": "ltr",
   "display_override": [
     "standalone",
-    "minimal-ui"
+    "minimal-ui",
+    "window-controls-overlay"
   ],
   "prefer_related_applications": false,
   "screenshots": [
